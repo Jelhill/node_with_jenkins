@@ -3,6 +3,6 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-    res.json("Welcome: This is a test app and it is running well")
+    res.status(200).json({ success: true, message: "App is running successfully"})
 })
 app.listen(5000, console.log("Server running on port 5000"))
