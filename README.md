@@ -1,4 +1,4 @@
-# This is a Simple Application that performs a CICD operations and update an EC@ Ubuntu Server Instatenously
+# This is a Simple Application that performs a CICD operations and update an EC2 Ubuntu Server Instatenously
 
 To Clone the app
 
